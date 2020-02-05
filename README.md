@@ -8,7 +8,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 ## Links for the Course 🔗
 
-- [Slides](https://slides.com/moonhighway/graphql-is-for-everyone)
+- [Slides](https://slides.com/moonhighway/graphql-everyone)
 - [Pet Library Playground](https://pet-library.moonhighway.com)
 - [Moon Highway Vote Playground](http://vote.moonhighway.com)
 
