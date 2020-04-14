@@ -34,7 +34,6 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 ## Moon Highway 🌘
 
-- [Schema Design Workshop - Online: Discount](http://bit.ly/schema-design)
 - [Moon Highway](https://www.moonhighway.com)
 - [Articles](https://www.moonhighway.com/articles)
 - [Mailing List](http://bit.ly/moonhighway)
