@@ -37,5 +37,6 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Moon Highway](https://www.moonhighway.com)
 - [Articles](https://www.moonhighway.com/articles)
 - [Mailing List](http://bit.ly/moonhighway)
+- [Schema Design Workshop](https://ti.to/moonhighway/graphql-schemas)
 - Alex Banks: alex@moonhighway.com, [@moontahoe](https://twitter.com/moontahoe)
 - Eve Porcello: eve@moonhighway.com, [@eveporcello](https://twitter.com/eveporcello)
